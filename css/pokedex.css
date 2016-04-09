@@ -1,0 +1,100 @@
+.filter {
+  width: 100%;
+  height: auto;
+  bottom: 20px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+.pokemon {
+  border: 2px solid black;
+  margin-right: 30px;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+
+.info {
+  border: 2px solid black;
+  padding: 15px;
+}
+
+.info .name {
+  font-size: 2em;
+}
+
+.title {
+  border: 2px solid black;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  pading-left: 10px;
+}
+
+h1 {
+  font-weigth: bold;
+  font-size: 4em;
+}
+
+img {
+  width: 100%;
+}
+
+.img {
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+  border: 1px solid black;
+}
+
+.img-container {
+  width: 100%;
+  display: table;
+  margin: auto;
+}
+
+.name {
+  text-align: center;
+  font-weight: bold;
+  display: block;
+  margin-top: 10px;
+}
+
+.type-container {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 1em;
+}
+
+.type {
+  border-radius: 5px;
+  padding: 5px;
+  width: 45%;
+  margin-left: 5px;
+}
+
+.type-info {
+  border-radius: 5px;
+  margin: 5px;
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+  border: 1px solid black;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px 0 5px 0;
+}
+
+#button {
+  width: 80%;
+  padding: 15px 0 15px 0;
+  margin-left: 15px;
+  margin-bottom: 100px;
+  font-size: 2em;
+  border-radius: 15px;
+  border: 1px solid black;
+}
